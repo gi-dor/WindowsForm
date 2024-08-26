@@ -1,0 +1,10 @@
+C:\Users\Daun\source\repos\Example01\bin\Debug\Example01.exe.config
+C:\Users\Daun\source\repos\Example01\bin\Debug\Example01.exe
+C:\Users\Daun\source\repos\Example01\bin\Debug\Example01.pdb
+C:\Users\Daun\source\repos\Example01\obj\Debug\Example01.csproj.AssemblyReference.cache
+C:\Users\Daun\source\repos\Example01\obj\Debug\Example01.Properties.Resources.resources
+C:\Users\Daun\source\repos\Example01\obj\Debug\Example01.csproj.GenerateResource.cache
+C:\Users\Daun\source\repos\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+C:\Users\Daun\source\repos\Example01\obj\Debug\Example01.exe
+C:\Users\Daun\source\repos\Example01\obj\Debug\Example01.pdb
+C:\Users\Daun\source\repos\Example01\obj\Debug\Example01.DataGridViewTest.resources
