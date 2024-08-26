@@ -1,0 +1,12 @@
+C:\Users\Daun\source\repos\BoxControl\bin\Debug\Sample.exe.config
+C:\Users\Daun\source\repos\BoxControl\bin\Debug\Sample.exe
+C:\Users\Daun\source\repos\BoxControl\bin\Debug\Sample.pdb
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\BoxControl.csproj.AssemblyReference.cache
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\Sample.Main.resources
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\Sample.Form2.resources
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\Sample.Form3.resources
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\BoxControl.csproj.GenerateResource.cache
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\BoxControl.csproj.CoreCompileInputs.cache
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\Sample.exe
+C:\Users\Daun\source\repos\BoxControl\obj\Debug\Sample.pdb

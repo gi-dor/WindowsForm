@@ -1,0 +1,12 @@
+C:\Users\Daun\source\repos\Sample\bin\Debug\Sample.exe.config
+C:\Users\Daun\source\repos\Sample\bin\Debug\Sample.exe
+C:\Users\Daun\source\repos\Sample\bin\Debug\Sample.pdb
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.Form1.resources
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.csproj.GenerateResource.cache
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.exe
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.pdb
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.Form2.resources
+C:\Users\Daun\source\repos\Sample\obj\Debug\Sample.Form3.resources
