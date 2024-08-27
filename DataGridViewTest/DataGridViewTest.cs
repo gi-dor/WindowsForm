@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 using static System.Windows.Forms.AxHost;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Example01
 {
@@ -18,19 +19,20 @@ namespace Example01
 
         // 데이터베이스 연결
    
-        public static String uid = "";
+        public static String uid = "DESKTOP-TFDKFVS\\Daun";
         public static String password = "";  // 비밀번호가 없으므로 빈 문자열
-        public static String database = "";
+        public static String database = "giseonDB";
         public static String server = "localhost";
 
         public static String conStr = $"Server={server}; Database={database}; User Id={uid}; Password={password}; Integrated Security=True";
         SqlConnection conn = new SqlConnection(conStr);
 
+        
+
         public DataGridViewTest()
         {
             InitializeComponent();
         }
-
 
 
         private void Form1_Load(object sender, EventArgs e)
@@ -39,11 +41,18 @@ namespace Example01
             {
             conn.Open();
             MessageBox.Show("DB 연결 되었습니다");
+
+            // 해당 컬럼의 ReadOnly 속성 true 
+            dataGridView1.ReadOnly = false;
+
             } catch(Exception ex)
             {
                 MessageBox.Show($"DB 연결실패 \r\n Error : {ex.Message}", "DB Error", MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
 
+
+
+       
         }
 
         private void buttonSelect_Click(object sender, EventArgs e)
@@ -132,5 +141,29 @@ namespace Example01
             }
         }
 
+        // 컬럼삭제 버튼 - 인덱스 0 번 컬럼 삭제
+        private void colummDeleteButton_Click(object sender, EventArgs e)
+        {
+            dataGridView1.Columns.RemoveAt(0);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            String str1 = textBox1.Text;
+            String str2 = textBox2.Text;
+            String str3 = textBox3.Text;
+            String str4 = textBox4.Text;
+            String str5 = textBox5.Text;
+            String str6 = textBox6.Text;
+            String str7 = textBox7.Text;
+            String str8 = textBox8.Text;
+
+            dataGridView1.Rows.Add( str1 , str2 , str3 , str4 , str5 ,str6 ,str7, str8);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

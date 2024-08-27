@@ -1,0 +1,10 @@
+C:\Users\Daun\source\repos\DataGridViewTest\bin\Debug\Example01.exe.config
+C:\Users\Daun\source\repos\DataGridViewTest\bin\Debug\Example01.exe
+C:\Users\Daun\source\repos\DataGridViewTest\bin\Debug\Example01.pdb
+C:\Users\Daun\source\repos\DataGridViewTest\obj\Debug\DataGridViewTest.csproj.AssemblyReference.cache
+C:\Users\Daun\source\repos\DataGridViewTest\obj\Debug\Example01.DataGridViewTest.resources
+C:\Users\Daun\source\repos\DataGridViewTest\obj\Debug\Example01.Properties.Resources.resources
+C:\Users\Daun\source\repos\DataGridViewTest\obj\Debug\DataGridViewTest.csproj.GenerateResource.cache
+C:\Users\Daun\source\repos\DataGridViewTest\obj\Debug\DataGridViewTest.csproj.CoreCompileInputs.cache
+C:\Users\Daun\source\repos\DataGridViewTest\obj\Debug\Example01.exe
+C:\Users\Daun\source\repos\DataGridViewTest\obj\Debug\Example01.pdb
