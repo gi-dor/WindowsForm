@@ -43,7 +43,8 @@ namespace Example01
             MessageBox.Show("DB 연결 되었습니다");
 
             // 해당 컬럼의 ReadOnly 속성 true 
-            dataGridView1.ReadOnly = false;
+            dataGridView1.ReadOnly = true;
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
 
             } catch(Exception ex)
             {
