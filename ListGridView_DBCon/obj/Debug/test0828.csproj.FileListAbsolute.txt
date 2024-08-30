@@ -1,0 +1,11 @@
+C:\Users\Daun\source\repos\test0828\bin\Debug\test0828.exe.config
+C:\Users\Daun\source\repos\test0828\bin\Debug\test0828.exe
+C:\Users\Daun\source\repos\test0828\bin\Debug\test0828.pdb
+C:\Users\Daun\source\repos\test0828\obj\Debug\test0828.csproj.AssemblyReference.cache
+C:\Users\Daun\source\repos\test0828\obj\Debug\test0828.Form1.resources
+C:\Users\Daun\source\repos\test0828\obj\Debug\test0828.Properties.Resources.resources
+C:\Users\Daun\source\repos\test0828\obj\Debug\test0828.csproj.GenerateResource.cache
+C:\Users\Daun\source\repos\test0828\obj\Debug\test0828.csproj.CoreCompileInputs.cache
+C:\Users\Daun\source\repos\test0828\obj\Debug\test0828.exe
+C:\Users\Daun\source\repos\test0828\obj\Debug\test0828.pdb
+C:\Users\Daun\source\repos\test0828\obj\Debug\test0828.UserDetails.resources
